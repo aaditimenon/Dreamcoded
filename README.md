@@ -1,6 +1,6 @@
 # Dreamcoded
 
-Welcome to **dreamcoded** — a curated collection of dreamy, visually captivating web projects that blend creativity and elegant design.
+Welcome to **dreamcoded**, a curated collection of dreamy, visually captivating web projects that blend creativity and elegant design.
 
 ## ✨ About
 
